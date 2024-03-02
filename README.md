@@ -1,2 +1,2 @@
 # soloJobProjects
-This is my current side projects that I have created outside of school during my free time starting March 2024.
+This is my current side projects that I have created outside of school during my free time starting March 2024. The purpose of this repository is to showcase my current skills along with the progression over time from my early projects, to my pre-graduation projects. As of the start of this repository in March 2024, I taken: Java 1, Data Structures and Algorithms, C# 1, Discrete Mathematics, UX/UI Design, and Software Engineering 1. Thank you for visiting my repository and if you have any questions please feel free to contact me.
